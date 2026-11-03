@@ -101,4 +101,4 @@ ollama serve
 
 ---
 
-项目地址：<https://github.com/ntlaoshi/xuexitong-ai-assistant>
+项目地址：<https://github.com/Jiangyu0911/xuexitong-ai-assistant>

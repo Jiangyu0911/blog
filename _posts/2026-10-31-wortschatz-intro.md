@@ -6,7 +6,7 @@ categories:
   - 德语
 ---
 
-> **说明**：本文由 AI 生成，经 BG6HMA 校对后发布。
+> **说明**：本文由 AI 生成，经 江羽 校对后发布。
 
 > Wortschatz 是一款离线优先的德语词汇学习应用，Android 原生开发，采用 Kotlin + Jetpack Compose。
 > 本文介绍它的设计取舍、词库与发音的构建思路、学习算法，以及完整的使用方法。
@@ -145,4 +145,4 @@ categories:
 
 如果你也在学德语，或者对离线优先的移动应用开发感兴趣，欢迎体验和反馈。
 
-> 项目地址：https://github.com/ntlaoshi/wortschatz
+> 项目地址：https://github.com/Jiangyu0911/wortschatz

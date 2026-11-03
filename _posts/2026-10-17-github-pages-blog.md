@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "把博客部署到 GitHub Pages：BG6HMA 的建站记录"
+title: "把博客部署到 GitHub Pages：江羽的建站记录"
 date: 2026-10-17 23:50:00 +0800
 categories: 折腾
 ---
 
-这是 **BG6HMA** 的新博客，第一件正经事，就是把这套站点是怎么搭起来的记下来。
+这是 **江羽** 的新博客，第一件正经事，就是把这套站点是怎么搭起来的记下来。
 
 ## 用到的三样东西
 
 1. **域名** `bg6hma.top` —— 注册在阿里云，DNS 托管在 Cloudflare。
-2. **GitHub 仓库** —— 公开仓库 `ntlaoshi/blog`，用来放站点源码。
+2. **GitHub 仓库** —— 公开仓库 `Jiangyu0911/blog`，用来放站点源码。
 3. **Jekyll** —— GitHub Pages 原生支持，不用本地装环境。
 
 ## 搭建步骤
@@ -30,12 +30,12 @@ _posts/2026-10-17-hello.md     第一篇文章
 `_config.yml` 里指定主题：
 
 ```yaml
-title: BG6HMA 的博客
-description: BG6HMA 的折腾记录与随笔
+title: 江羽的博客
+description: 江羽的折腾记录与随笔
 url: "https://blog.bg6hma.top"
 theme: minima
 lang: zh-CN
-author: BG6HMA
+author: 江羽
 ```
 
 ### 3. 开启 GitHub Pages
@@ -51,7 +51,7 @@ author: BG6HMA
 
 | 类型 | 名称 | 内容 | 代理状态 |
 |---|---|---|---|
-| CNAME | `blog` | `ntlaoshi.github.io` | **仅 DNS（灰云）** |
+| CNAME | `blog` | `jiangyu0911.github.io` | **仅 DNS（灰云）** |
 
 然后在 Pages 设置里填 **Custom domain**：`blog.bg6hma.top`，保存。
 
@@ -84,6 +84,6 @@ categories: 折腾
 
 ---
 
-> **说明**：本文由 AI 生成，经 BG6HMA 校对后发布。
+> **说明**：本文由 AI 生成，经 江羽 校对后发布。
 
-73 de **BG6HMA**。
+73 de **江羽**。
